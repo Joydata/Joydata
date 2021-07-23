@@ -4,7 +4,7 @@
 * 👨‍👩‍👦 I'm married with a 2 years old kid
 * 🔭 I’m currently studying Data Science & AI at Data ScienceTech institute.
 * 🌱 I’m currently learning Cloud computing with Amazon AWS and working on some projects like a ticket scanning application
-* I will be looking for an internship in Data Science from Nov 21.
+* I will be looking for an internship in Data Science from Jan 22.
 
 
 
