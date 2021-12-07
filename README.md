@@ -3,7 +3,7 @@
 ### 🌍 I'm Johann, from Toulouse - France. 
 * 👨‍👩‍👦 I'm married and I have a 2 years old kid
 * 🔭 I’m currently studying Data Science & AI at Data ScienceTech institute.
-* 🌱 I’m currently learning Data assimilation and Inverse problems + working on some projects like a ticket scanning application
+* 🌱 I’m currently learning Data assimilation and Inverse problems and working on some projects like a ticket scanning application
 
 
 
