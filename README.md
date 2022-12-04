@@ -2,7 +2,7 @@
 
 ### 🌍 I'm Johann, from Toulouse - France. 
 * 👨‍👩‍👦 I'm married and I have a 3 years old kid
-* 🔭 I’m a Data Science Intern for Avisto, working on a hybrid AI for autonomous driving 
+* 🔭 I’m a Data Scientist @ Capgemini Hybrid Intelligence 
 
 
 
